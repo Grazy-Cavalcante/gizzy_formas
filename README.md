@@ -61,7 +61,7 @@ Para os mais aventureiros, há uma seção dedicada a prismas e formas geométri
 ## Identidade Visual
 ---
 
-A identidade visual é o equilíbrio perfeito entre *criatividade e modernidade*, combinando um design minimalista com uma abordagem divertida e intuitiva.
+A identidade visual é o equilíbrio perfeito entre *criatividade e modernidade*, combinando um design minimalista com uma abordagem divertida.
 
 **Cores**
 ---
